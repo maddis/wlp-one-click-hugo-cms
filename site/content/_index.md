@@ -1,9 +1,9 @@
 ---
-title: Award Winning Pet Care Provider - We Love Pets - Matt Edit
-subtitle: Nationally known, locally owne
-image: /img/home-jumbotron.jpg
+title: Award Winning Pet Care Provider - We Love Pets
+subtitle: Nationally known, locally owned
+image: img/a05i9105-min-scaled.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why We Love Pets?
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
