@@ -1,5 +1,5 @@
 ---
-title: Award Winning Pet Care Provider - We Love Pets
+title: Award Winning Pet Care Provider - We Love Pets - Matt Edit
 subtitle: Nationally known, locally owne
 image: /img/home-jumbotron.jpg
 blurb:
