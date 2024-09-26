@@ -2,7 +2,7 @@
 title: We Love Pets - Earley
 date: 2024-09-26T09:32:07.971Z
 description: Award-winning dog walking, pet sitting and home boarding in Reading
-image: https://b1872634.smushcdn.com/1872634/wp-content/uploads/2021/12/Excited-puppy.jpg?lossy=1&strip=1&webp=1
+image: excited-puppy-1-.jpg
 ---
 Our wonderful We Love Pets Reading branch offer friendly and reliable dog walking, dog sitting, cat sitting and other pet care services in Reading, Arborfield, Shinfield and the surrounding areas. The whole team are fully insured, DBS checked and pet first aid trained, so you know your pet will be safe and happy with us.
 
