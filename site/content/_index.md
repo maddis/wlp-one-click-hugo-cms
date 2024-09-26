@@ -4,10 +4,9 @@ subtitle: Nationally known, locally owned
 image: img/a05i9105-min-scaled.jpg
 blurb:
   heading: Why We Love Pets?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  text: Our Dog Walking service runs throughout the day, every day. Your dog will
+    be walked in a safe open space and will return home, happy and tired. We
+    also provide fresh water, treats and will towel your dog off in wet weather.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
