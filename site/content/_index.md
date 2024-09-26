@@ -1,6 +1,6 @@
 ---
 title: Award Winning Pet Care Provider - We Love Pets
-subtitle: Nationally known, locally owned
+subtitle: Nationally known, locally owne
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
